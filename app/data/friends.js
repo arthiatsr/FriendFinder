@@ -1,0 +1,53 @@
+var friendslistarr = [
+    {
+        "name":"Kanmani",
+        "photo":"https://www.pngix.com/pngfile/middle/164-1644238_png-indian-beautiful-women-profile-transparent-png.png",
+        "scores":[
+            1,
+            1,
+            4,
+            4,
+            4,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      },
+      {
+        "name":"Indira",
+        "photo":"https://www.nicepng.com/png/full/773-7733483_shop-now-indian-women-model-png.png",
+        "scores":[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            3,
+            1
+          ]
+      },
+      {
+        "name":"Athulya",
+        "photo":"https://img.pngio.com/women-shopping-png-hd-transparent-women-shopping-hdpng-images-indian-girl-salwar-dress-png-1008_1500.jpg",
+        "scores":[
+            5,
+            1,
+            4,
+            5,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      }
+      
+];
+
+module.exports = friendslistarr;
